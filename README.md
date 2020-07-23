@@ -1,1 +1,1 @@
-![alt text]()
+![alt text](https://raw.githubusercontent.com/hardikroutray/scouting_fitplots/master/readme.png)
