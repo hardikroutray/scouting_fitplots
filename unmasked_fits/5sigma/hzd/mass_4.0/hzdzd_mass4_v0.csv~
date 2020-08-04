@@ -1,0 +1,12 @@
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;0.0 - 0.2;cheb1;297.01030417;287;0.684;-0.0156000331996;0.0754909564094;3.386;4.5169;6.2812;8.7412;11.6446;5.0957
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;0.2 - 1.0;cheb1;291.072559524;287;0.624;0.0914697525433;0.0832621141098;3.0996;4.1349;5.75;8.0076;10.6638;8.4837
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;1.0 - 2.4;cheb1;273.050289283;287;0.572;-0.446031101589;0.132514399995;0.5768;0.6814;0.8203;1.0067;1.2246;0.8805
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;2.4 - 3.1;cheb1;287.767767831;287;0.636;-0.15633150926;0.120139669077;0.0447;0.0611;0.0886;0.131;0.1869;0.0843
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;3.1 - 7.0;cheb1;279.751770664;287;0.564;-1.02893884932;0.367373030607;0.0293;0.0382;0.054;0.0805;0.1187;0.0444
+ mass;lxy bin;poly order;chi2;ndof;pvalue;bias;bias_err;Expected 2.5%: r < ;Expected 16.0%: r < ;Expected 50.0%: r < ;Expected 84.0%: r < ;Expected 97.5%: r < ;Observed Limit
+ 4;7.0 - 11.0;cheb9;nan;279;0.0;0.400914056682;0.26805607475;0.0056;0.01;0.0192;0.0371;0.0584;0.0192

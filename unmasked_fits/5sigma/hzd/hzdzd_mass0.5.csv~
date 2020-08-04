@@ -1,0 +1,24 @@
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	0.0 - 0.2	cheb1	107.10491662	121	0.332	0.071433986353	0.118941841772	0.3706	0.4944	0.6875	0.9595	1.2809	0.7635
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	0.2 - 1.0	cheb1	154.228444437	121	0.992	-0.0698061349535	0.12217795909	1.0297	1.3736	1.9102	2.6601	3.5518	3.0743
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	1.0 - 2.4	cheb1	99.2502161807	121	0.096	0.0381019063549	0.100758510478	0.4517	0.6025	0.8379	1.1685	1.5632	0.8488
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	2.4 - 3.1	cheb2	126.39892481	120	0.588	0.36475642284	0.104626795441	0.1375	0.1838	0.2515	0.3417	0.4499	0.3145
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	3.1 - 7.0	cheb3	117.419134293	119	0.672	-0.369628405654	0.114882664353	0.1494	0.1875	0.2451	0.3233	0.4185	0.1798
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	7.0 - 11.0	cheb2	128.433741743	120	0.8	4.98162546223	9.45910109664	0.0786	0.1028	0.1406	0.1967	0.2632	0.1557
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	0.0 - 0.2	cheb1	107.10491662	121	0.332	0.071433986353	0.118941841772	0.3706	0.4944	0.6875	0.9595	1.2809	0.7635
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	0.2 - 1.0	cheb1	154.228444437	121	0.992	-0.0698061349535	0.12217795909	1.0297	1.3736	1.9102	2.6601	3.5518	3.0743
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	1.0 - 2.4	cheb1	99.2502161807	121	0.096	0.0381019063549	0.100758510478	0.4517	0.6025	0.8379	1.1685	1.5632	0.8488
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	2.4 - 3.1	cheb2	126.39892481	120	0.588	0.36475642284	0.104626795441	0.1375	0.1838	0.2515	0.3417	0.4499	0.3145
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	3.1 - 7.0	cheb3	117.419134293	119	0.672	-0.37687888308	0.11620914651	0.1494	0.1875	0.2451	0.3233	0.4185	0.1798
+ mass	lxy bin	poly order	chi2	ndof	pvalue	bias	bias_err	Expected 2.5%: r < 	Expected 16.0%: r < 	Expected 50.0%: r < 	Expected 84.0%: r < 	Expected 97.5%: r < 	Observed Limit
+ 0.5	7.0 - 11.0	cheb2	128.433741743	120	0.8	-0.072696048055	0.100172002302	0.0786	0.1028	0.1406	0.1967	0.2632	0.1557
